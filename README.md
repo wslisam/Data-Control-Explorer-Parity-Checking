@@ -4,6 +4,8 @@ This interactive web application is designed to help students easily understand 
 
 This tool provides a hands-on learning experience to see exactly how computers detect errors when transmitting data.
 
+<img width="1042" height="985" alt="image" src="https://github.com/user-attachments/assets/d6bf4cbc-f27c-48ef-8ca3-cd40504402e7" />
+
 ## 🚀 What You Will Learn
 1. **Validation vs Verification:** Learn the difference between checking if data is "sensible/logical" (Validation) versus checking if it is "absolutely correct" (Verification).
 2. **Parity Checks:** Understand how computers use an extra bit (the Parity Bit) to validate data sent over a network.
